@@ -8,6 +8,10 @@
 
 ## ROP skills
 
-* ROP
+* easy_rop
 * ret2csu
 * stack pivoting
+
+## FMT skills
+
+* easy_fmt
