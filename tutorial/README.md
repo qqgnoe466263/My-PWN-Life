@@ -7,6 +7,7 @@
 * ret2csu
 * stack pivoting
 * easy_fmt
+* fmt-revenge
 
 ## Support
 * Ubuntu 18.04 x64 system
