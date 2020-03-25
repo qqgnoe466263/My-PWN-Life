@@ -2,7 +2,7 @@
 
 * ret2text
 * ret2shellcode
-* ret2lib
+* ret2libc
 * ROP
 * ret2csu
 * stack pivoting
