@@ -6,6 +6,7 @@
 * ROP
 * ret2csu
 * stack pivoting
+* easy_fmt
 
 ## Support
 * Ubuntu 18.04 x64 system
