@@ -8,6 +8,7 @@
 * stack pivoting
 * easy_fmt
 * fmt-revenge
+* ret2dlresolve
 
 ## Support
 * Ubuntu 18.04 x64 system
