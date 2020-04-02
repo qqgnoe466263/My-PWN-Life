@@ -17,6 +17,9 @@
     $ mkdir build32 ; cd build32
     $ CC="gcc -m32" CFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" CXXFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" ../configure --prefix=/<your_path>/glibc-2.23/32 --host=i686-linux-gnu
 
+可能需要安裝:
+    $ sudo apt-get install gcc-multilib -y
+
 64bits:
 
     $ cd glibc-2.23
