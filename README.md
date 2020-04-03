@@ -12,6 +12,7 @@
 * [ret2csu](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/ret2csu)
 * [stack pivoting](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/stack_pivoting)
 * [ret2dlresolve](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/retdlresolve)
+* [DeASLR](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/deASLR)
 
 ## FMT skills
 
