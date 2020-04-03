@@ -14,6 +14,10 @@
 * [ret2dlresolve](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/retdlresolve)
 * [DeASLR](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/deASLR)
 
+## Canary skills
+
+* [easy_canary](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_cananry)
+
 ## FMT skills
 
 * [easy_fmt](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_fmt)
