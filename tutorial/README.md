@@ -10,6 +10,7 @@
 * fmt-revenge
 * ret2dlresolve
 * deASLR
+* PrintReturnHijack (disable ASLR) 
 
 ## Support
 * Ubuntu 18.04 x64 system
