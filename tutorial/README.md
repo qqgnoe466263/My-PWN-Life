@@ -12,6 +12,7 @@
 * deASLR
 * PrintReturnHijack (disable ASLR) 
 * easy_canary
+* easy_canary2
 
 ## Support
 * Ubuntu 18.04 x64 system

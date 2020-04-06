@@ -17,6 +17,7 @@
 ## Canary skills
 
 * [easy_canary](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_canary)
+* [easy_canary2](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_canary2)
 
 ## FMT skills
 
