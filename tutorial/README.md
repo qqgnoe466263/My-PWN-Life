@@ -13,6 +13,7 @@
 * PrintReturnHijack (disable ASLR) 
 * easy_canary
 * easy_canary2
+* babypwn (CODEGATE CTF 2017)
 
 ## Support
 * Ubuntu 18.04 x64 system
