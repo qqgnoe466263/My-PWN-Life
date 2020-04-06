@@ -13,6 +13,7 @@
 * PrintReturnHijack (disable ASLR) 
 * easy_canary
 * easy_canary2
+* easy_canary3
 * babypwn (CODEGATE CTF 2017)
 
 ## Support
