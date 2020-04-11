@@ -15,6 +15,7 @@
 * easy_canary2
 * easy_canary3
 * babypwn (CODEGATE CTF 2017)
+* ret2dlresolve x86
 
 ## Support
 * Ubuntu 18.04 x64 system
