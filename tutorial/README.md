@@ -7,6 +7,7 @@
 * ret2csu
 * stack pivoting
 * easy_fmt
+* fmtRBP
 * fmt-revenge
 * ret2dlresolve
 * deASLR
