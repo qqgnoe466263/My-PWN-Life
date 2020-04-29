@@ -17,6 +17,7 @@
 * babypwn (CODEGATE CTF 2017)
 * ret2dlresolve x86 (by winesap)
 * seethefile (by Angelboy)
+* UAF
 
 ## Support
 * Ubuntu 18.04 x64 system
