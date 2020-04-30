@@ -6,6 +6,7 @@
 #include <signal.h>
 #include <time.h>
 #define TIMEOUT 60
+#define MAX 6
 
 struct entry {
     char *ptr;
@@ -63,13 +64,13 @@ void menu()
     printf("Your choice :");
 }
 
-struct entry e[6];
+struct entry e[MAX];
 
 void alloc()
 {
     printf("Index :");
     int i = read_long();
-    if (i < 0 || i > 10) {
+    if (i < 0 || i > MAX) {
         puts("wrong entry !");
         return;
     }
@@ -89,7 +90,7 @@ void delete()
 {
     printf("Index :");
     int i = read_long();
-    if (i < 0 || i > 10) {
+    if (i < 0 || i > MAX) {
         puts("wrong entry !");
         return;
     }
@@ -100,7 +101,7 @@ void show()
 {
     printf("Index :");
     int i = read_long();
-    if (i < 0 || i > 10) {
+    if (i < 0 || i > MAX) {
         puts("wrong entry !");
         return;
     }
@@ -111,7 +112,7 @@ void modify()
 {
     printf("Index :");
     int i = read_long();
-    if (i < 0 || i > 10) {
+    if (i < 0 || i > MAX) {
         puts("wrong entry !");
         return;
     }
