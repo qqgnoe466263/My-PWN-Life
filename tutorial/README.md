@@ -20,6 +20,7 @@
 * UAF
 * DoubleFree
 * babyheap (0ctf 2017)
+* babyheap (0ctf 2018)
 
 ## Support
 * Ubuntu 18.04 x64 system
