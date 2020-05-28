@@ -18,7 +18,7 @@
     $ CC="gcc -m32" CFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" CXXFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" ../configure --prefix=/<your_path>/glibc-2.23/32 --host=i686-linux-gnu
 
 可能需要安裝:
-    $ sudo apt-get install gcc-multilib -y
+    $ sudo apt-get install gcc-multilib gawk bison -y
 
 64bits:
 
@@ -26,6 +26,9 @@
     $ mkdir build64 ; cd build64
     $ CFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" CXXFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" ../configure --prefix=/<your_path>/glibc-2.23/64
     
+**Note:ubuntu20.04(glibc2.31 64bits)**
+    
+    $ CFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error -Wno-maybe-uninitialized -Wno-unused-result" CXXFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error -Wno-maybe-uninitialized -Wno-unused-result" ../configure --prefix=/<your_path>/glibc-2.31/64
 
 **Note:記得上述要去更改你的路徑**
 
