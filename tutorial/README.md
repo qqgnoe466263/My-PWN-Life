@@ -8,7 +8,7 @@
 * stack pivoting
 * easy_fmt
 * fmtRBP 
-* fmt-revenge(whitehole)
+* whitehole (AIS3 EOF 2019 FINAL)
 * deASLR (by winesap)
 * PrintReturnHijack (disable ASLR) (by winesap) 
 * easy_canary
@@ -22,8 +22,9 @@
 * babyheap (0ctf 2017)
 * babyheap (0ctf 2018)
 * kidding
-* blackhole
-* Impossible
+* blackhole (AIS3 EOF 2019 FINAL)
+* Impossible (AIS3 EOF 2019)
+* nonono (AIS3 EOF 2019)
 
 ## Support
 * Ubuntu 18.04 x64 system
