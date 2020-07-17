@@ -16,6 +16,8 @@
 * [easy_rop](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_rop)
 * [ret2csu](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/ret2csu)
 * [stack pivoting](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/stack_pivoting)
+* [Full protection (ASIS CTF 2020 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/full_protection)
+* [babynote (ASIS CTF 2020 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/babynote)
 * [notepad_plus (NCU-ADL-CTF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/4)
 * [Impossible (AIS3-EOF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Impossible)
 * [Portal_gun (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/portal_gun)

@@ -27,6 +27,8 @@
 * nonono (AIS3 EOF 2019)
 * babydriver (CISCN2017)
 * core (2018 强网杯)
+* Full Protection (ASIS CTF 2020 Quals)
+* babynote (ASIS CTF 2020 Quals)
 
 ## Support
 * Ubuntu 18.04 x64 system
