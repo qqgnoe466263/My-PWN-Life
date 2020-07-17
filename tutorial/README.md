@@ -29,6 +29,7 @@
 * core (2018 强网杯)
 * Full Protection (ASIS CTF 2020 Quals)
 * babynote (ASIS CTF 2020 Quals)
+* Trick or Treat (HITCON 2019 Quals)
 
 ## Support
 * Ubuntu 18.04 x64 system
