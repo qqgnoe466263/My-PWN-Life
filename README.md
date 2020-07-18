@@ -64,8 +64,9 @@
 
 ## Kernel PWN skills
 
-* [babydriver (UAF)(CISCN2017)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/babydriver) 
-* [core (ROP)(强网杯2018)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/core) 
+* [babydriver (UAF)(CISCN 2017)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/babydriver) 
+* [core (ROP)(强网杯 2018)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/core) 
+* [babykernel (Double Fetch)(0ctf 2018 finals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/0ctf-fina-baby) 
 
 ## Support
 * Ubuntu 18.04 x64 system
