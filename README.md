@@ -8,8 +8,8 @@
 
 ## Shellcode skills
 
-* [notepad (NCU-ADL-CTF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/3)
-* [nonsense (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/nonsense)
+* [notepad (NCU ADL CTF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/3)
+* [nonsense (AIS3 PRE EXAM 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/nonsense)
 
 ## ROP skills
 
@@ -18,17 +18,17 @@
 * [stack pivoting](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/stack_pivoting)
 * [Full protection (ASIS CTF 2020 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/full_protection)
 * [babynote (ASIS CTF 2020 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/babynote)
-* [notepad_plus (NCU-ADL-CTF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/4)
-* [Impossible (AIS3-EOF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Impossible)
-* [Portal_gun (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/portal_gun)
+* [notepad_plus (NCU ADL CTF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/4)
+* [Impossible (AIS3 EOF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Impossible)
+* [Portal_gun (AIS3 PRE EXAM 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/portal_gun)
 * [ret2dlresolve](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/ret2dlresolve)
 * [DeASLR](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/deASLR)
 * [kidding](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/kidding)
 
 ## Out of Bound skills
 
-* [simple_calculator (NCU-ADL-CTF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/5)
-* [Morty school (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/morty_school)
+* [simple_calculator (NCU ADL CTF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/NCU_ADL_CTF_2019/5)
+* [Morty school (AIS3 PRE EXAM 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/morty_school)
 
 ## Canary skills
 
@@ -41,22 +41,22 @@
 
 * [easy_fmt](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/easy_fmt)
 * [fmtRBP](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/fmtRBP)
-* [Death_crystal (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/death_crystal)
-* [whitehole (AIS3-EOF-2019-FINAL)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/fmt-revenge)
-* [blackhole (AIS3-EOF-2019-FINAL)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/blackhole)
-* [Print Return Hijack (disable ASLR)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/PrintReturnHijack)
+* [Death_crystal (AIS3 PRE EXAM 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/death_crystal)
+* [whitehole (AIS3 EOF 2019 FINAL)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/fmt-revenge)
+* [blackhole (AIS3 EOF 2019 FINAL)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/blackhole)
+* [Print Return Hijack](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/PrintReturnHijack)
 
 ## FILE skills
 
 * [see the file](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/seethefile)
-* [nonono (AIS3-EOF-2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/nonono)
+* [nonono (AIS3 EOF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/nonono)
 * [ezfile (D^3CTF 2019)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/ezfile)
 
 ## HEAP skills
 
 * [Use After Free](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/UAF)
 * [Double Free](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/DoubleFree)
-* [Meeseeks box (AIS3-PRE-EXAM-2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/meeseeks_box)
+* [Meeseeks box (AIS3 PRE EXAM 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/course/AIS3PRE2020/meeseeks_box)
 * [babyheap (0ctf2017)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/baby_heap_0ctf2017)
 * [babyheap (0ctf2018)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/baby_heap_0ctf2018)
 * [Trick or Treat (HITCON 2019 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Trick_or_Treat)
