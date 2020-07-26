@@ -43,6 +43,10 @@
 
     $ gcc -m32 test.c -o test -Wl,-dynamic-linker /<your_path>/glibc-2.23/32/lib/ld-2.23.so -g 
     
+## Note
+
+* Compiling 2.23 2.27 2.29 at ubuntu18.04 worked
+* Compiling 2.31 at ubuntu20.04 worked
 
 ## Reference
     
