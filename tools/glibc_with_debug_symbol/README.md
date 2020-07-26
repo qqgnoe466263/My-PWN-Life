@@ -25,6 +25,14 @@
     $ cd glibc-2.23
     $ mkdir build64 ; cd build64
     $ CFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" CXXFLAGS="-g -g3 -ggdb -gdwarf-4 -Og -Wno-error" ../configure --prefix=/<your_path>/glibc-2.23/64
+
+直接patch binary更換glibc(64bits為例)
+    
+    $ sudo ln -s <your_path>/glibc-2.29/64/lib/ld-2.29.so /lib64/Ld-linux-x86-64.so.2
+    $ vim <binary> , 把ld-linux-x86-64.so.2改成Ld-linux-x86-64.so.2
+        /lib64/Ld-linux-x86-64.so.2 => /lib64/ld-linux-x86-64.so.2 (0x00007f3fbbacc000)
+    $ ls -al /lib64/Ld-linux-x86-64.so.2
+        lrwxrwxrwx 1 root root 50  七  26 23:50 /lib64/Ld-linux-x86-64.so.2 -> <your_path>/glibc-2.29/64/lib/ld-2.29.so
     
 **Note:ubuntu20.04(glibc2.31 64bits)**
     
