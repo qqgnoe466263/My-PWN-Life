@@ -24,6 +24,7 @@
 * [ret2dlresolve](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/ret2dlresolve)
 * [DeASLR](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/deASLR)
 * [kidding](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/kidding)
+* [sum (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/sum)
 
 ## Out of Bound skills
 
@@ -60,7 +61,7 @@
 * [babyheap (0ctf2017)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/baby_heap_0ctf2017)
 * [babyheap (0ctf2018)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/baby_heap_0ctf2018)
 * [Trick or Treat (HITCON 2019 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Trick_or_Treat)
-* [one (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/one)
+* [one (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/one)
 
 ## Kernel PWN skills
 
