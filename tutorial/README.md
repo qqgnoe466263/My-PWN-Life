@@ -34,6 +34,7 @@
 * baby kernel (0ctf 2018 final)
 * one (SECCON 2019 CTF)
 * sum (SECCON 2019 CTF)
+* easyTHeap (V&N CTF 2020)
 
 ## Support
 * Ubuntu 18.04 x64 system
