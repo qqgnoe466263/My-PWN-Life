@@ -31,6 +31,7 @@
 * babynote (ASIS CTF 2020 Quals)
 * Trick or Treat (HITCON 2019 Quals)
 * ezfile (D^3CTF 2019)
+* unprintableV (D^3CTF 2019)
 * baby kernel (0ctf 2018 final)
 * one (SECCON 2019 CTF)
 * sum (SECCON 2019 CTF)
