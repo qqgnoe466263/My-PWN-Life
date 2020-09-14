@@ -37,6 +37,7 @@
 * sum (SECCON 2019 CTF)
 * easyTHeap (V&N CTF 2020)
 * login (0CTF 2015)
+* bard (CSAW CTF QUALS 2020)
 
 ## Support
 * Ubuntu 18.04 x64 system
