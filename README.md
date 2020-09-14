@@ -25,6 +25,7 @@
 * [DeASLR](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/deASLR)
 * [kidding](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/kidding)
 * [sum (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/sum)
+* [bard (CSAW CTF QUALS 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/CSAW_CTF_Quals_2020/bard)
 
 ## Out of Bound skills
 
