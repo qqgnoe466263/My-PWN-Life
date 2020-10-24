@@ -9,8 +9,11 @@
 * 先把**rootfs.cpio**解開
     
     $ mkdir fs
+    
     $ cd fs
+    
     $ cp ../rootfs.cpio .
+    
     $ cpio -idmv < rootfs.cpio
 
 * 在**init**中會發現，有漏洞的驅動，直接把它拖進IDA就可以分析了
