@@ -26,6 +26,7 @@
 * [kidding](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/kidding)
 * [sum (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/sum)
 * [bard (CSAW CTF QUALS 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/CSAW_CTF_Quals_2020/bard)
+* [TooEasySoldierReg (2020 神盾盃)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/2020神盾盃/TooEasySoldierReg)
 
 ## Out of Bound skills
 
@@ -68,6 +69,7 @@
 * [Trick or Treat (HITCON 2019 Quals)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/Trick_or_Treat)
 * [one (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/one)
 * [easyTHeap (V&N 2020 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/VN2020CTF/easyTHeap)
+* [babyheap (2020 神盾盃)(glibc2.26)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/2020神盾盃/babyheap)
 
 ## Kernel PWN skills
 

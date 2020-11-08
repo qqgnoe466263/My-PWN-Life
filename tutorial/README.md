@@ -38,6 +38,8 @@
 * easyTHeap (V&N CTF 2020)
 * login (0CTF 2015)
 * bard (CSAW CTF QUALS 2020)
+* TooEasySoldierReg (2020神盾盃)
+* babyheap (2020神盾盃)
 
 ## Support
 * Ubuntu 18.04 x64 system
