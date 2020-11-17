@@ -70,6 +70,7 @@
 * [one (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/one)
 * [easyTHeap (V&N 2020 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/VN2020CTF/easyTHeap)
 * [babyheap (2020 神盾盃)(glibc2.26)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/2020神盾盃/babyheap)
+* [diary (Balsn CTF 2020)(glibc2.29)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/BalsnCTF2020/diary)
 
 ## Kernel PWN skills
 
