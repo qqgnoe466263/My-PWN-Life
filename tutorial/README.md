@@ -41,6 +41,7 @@
 * TooEasySoldierReg (2020神盾盃)
 * babyheap (2020神盾盃)
 * diary (Balsn CTF 2020)
+* challenge 8,9 (2020金盾獎 決賽)
 
 ## Support
 * Ubuntu 18.04 x64 system

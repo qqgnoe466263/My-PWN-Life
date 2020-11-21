@@ -27,6 +27,8 @@
 * [sum (SECCON 2019 CTF)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/SECCON2019CTF/sum)
 * [bard (CSAW CTF QUALS 2020)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/CSAW_CTF_Quals_2020/bard)
 * [TooEasySoldierReg (2020 神盾盃)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/2020神盾盃/TooEasySoldierReg)
+* [Challenge 8 (2020 金盾獎)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/CSC2020/8)
+* [Challenge 9 (2020 金盾獎)](https://github.com/qqgnoe466263/My-PWN-Life/tree/master/tutorial/CSC2020/9)
 
 ## Out of Bound skills
 
